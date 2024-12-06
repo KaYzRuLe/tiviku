@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml" refresh="3600"
 
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/573_144.png",Home Of Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,7 +43,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
-https://cdnatv.mirack.tv/Atv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36&referer=https://awesometv.my/
+#EXTVLCOPT:http-referer=https://awesometv.my/
+https://cdnatv.mirack.tv/Atv/index.m3u8
 
 #EXTINF:-1 tvg-id="147.astro" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",Didik TV
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311

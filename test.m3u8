@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://aqfadtv.xyz/epg" refresh="3600"
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml" refresh="3600"
 
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/573_144.png",Home Of Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -43,10 +43,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="FreeView",Awesome TV
-https://cdnatv.mirack.tv/Atv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36&referer=https://awesometv.my/
+http://iptv12k.com:35461/live/654321/123456/10353.m3u8
 
 #EXTINF:-1 tvg-id="147.astro" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-title="FreeView",Didik TV
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 tvg-id="DramaSangat" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png" group-title="FreeView",Drama Sangat
+http://iptv12k.com:35461/live/654321/123456/5997.m3u8
 
 
 
@@ -223,6 +226,29 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
 #EXTINF:-1 tvg-id="319.astro" tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png" group-title="Chinese",TVB Xing He
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+
+
+
+#EXTINF:-1 tvg-id="132.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png" group-title="Sooka",Drama Hebat
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="133.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png" group-title="Sooka",Drama Hotpot
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="131.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" group-title="Sooka",Filem Mantap
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="130.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sooka_Jom_Ngaji.png" group-title="Sooka",Jom Ngaji
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="134.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sooka_Lawak_Sentral.png" group-title="Sooka",Lawak Sentral
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="136.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png" group-title="Sooka",Oh My Ceria!
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="135.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" group-title="Sooka",Travel & Taste
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 
 

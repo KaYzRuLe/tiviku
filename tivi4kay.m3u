@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml,https://aqfadtv.xyz/epg" refresh="3600"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12d9a54e458d31975632be17a8dac010:aa6173e8795c9b0b2733df838934817f
